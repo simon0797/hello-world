@@ -35,7 +35,7 @@
             BlueprintIdentifier = "8CB74E0F1EC9D9A900A5E25B"
             BuildableName = "Hello-World.app"
             BlueprintName = "Hello-World"
-            ReferencedContainer = "container:Hello-World.xcodeproj">
+            ReferencedContainer = "container:Hello-World2.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "8CB74E0F1EC9D9A900A5E25B"
             BuildableName = "Hello-World.app"
             BlueprintName = "Hello-World"
-            ReferencedContainer = "container:Hello-World.xcodeproj">
+            ReferencedContainer = "container:Hello-World2.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
